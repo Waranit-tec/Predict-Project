@@ -1,2 +1,2 @@
-# Predict-Project
-Project about prediction from python 
+# Project
+Project in DSI Class 
